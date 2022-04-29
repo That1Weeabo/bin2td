@@ -19,6 +19,6 @@ $(call inherit-product, vendor/twrp/config/common.mk)
 # Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := E7446
 PRODUCT_NAME := twrp_E7446
-PRODUCT_BRAND := Micromax
-PRODUCT_MODEL := E7446
+PRODUCT_BRAND := micromax
+PRODUCT_MODEL := IN_Note2
 PRODUCT_MANUFACTURER := micromax
